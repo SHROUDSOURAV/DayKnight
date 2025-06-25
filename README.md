@@ -12,3 +12,9 @@ A sleek mini project built using **HTML**, **CSS**, **JavaScript**, and **Bootst
 - 🎨 **Smooth Transitions** – Elegant color fading and transitions for a modern experience.
 - 🧩 **Built with Bootstrap** – Responsive and mobile-friendly layout using Bootstrap 5.
 - 💻 **Pure Front-End Stack** – No frameworks required beyond Bootstrap. Just HTML, CSS & vanilla JS!
+
+
+## 🔗 Live Preview
+
+👉 **View Project**: [DayKnight Live Preview](https://htmlpreview.github.io/?https://github.com/SHROUDSOURAV/DayKnight/blob/main/index.html)
+
